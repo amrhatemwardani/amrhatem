@@ -1,12 +1,9 @@
-<svg width="800" height="40" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="40" rx="8" fill="#0d1117"/>
+<svg width="900" height="32" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="32" rx="6" fill="#0a0f1c"/>
   <style>
-    text { font: bold 18px monospace; fill: #00fff7; }
-    .run { animation: scroll 24s linear infinite; }
-    @keyframes scroll {
-      from { transform: translateX(800px); }
-      to   { transform: translateX(-1700px); }
-    }
+    text { font: 400 14px 'SFMono-Regular', Consolas, monospace; fill: #6f86ad; }
+    .run { animation: scroll 30s linear infinite; }
+    @keyframes scroll { from { transform: translateX(900px); } to { transform: translateX(-1900px); } }
   </style>
-  <text class="run" y="26">no cap i turn raw data into dashboards 📊 • calibrated a radiation instrument and still don't glow ☢️ • it's giving data engineer 💅 • lowkey obsessed with KPIs 🔥 • main character of the pipeline ✨ • touch grass (climate ambassador approved) 🌱 • slay the bugs 😮‍💨</text>
+  <text class="run" y="21">no cap, the dashboard was clean before the client saw it  /  built in excel, rebuilt in power bi, never going back  /  calibrated a radiation instrument, still can't calibrate my sleep  /  it's giving "works on my machine"  /  lowkey in love with a good data model</text>
 </svg>
