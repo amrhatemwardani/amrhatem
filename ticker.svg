@@ -1,1 +1,12 @@
-
+<svg width="800" height="40" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="40" rx="8" fill="#0d1117"/>
+  <style>
+    text { font: bold 18px monospace; fill: #ff6ec7; }
+    .run { animation: scroll 18s linear infinite; }
+    @keyframes scroll {
+      from { transform: translateX(800px); }
+      to   { transform: translateX(-1300px); }
+    }
+  </style>
+  <text class="run" y="26">no cap 🧢 • it's giving senior dev • code so bussin 🔥 • touch grass later 🌱 • main character energy ✨ • rizzing up the compiler 😮‍💨 • slay the bugs 💅</text>
+</svg>
