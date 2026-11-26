@@ -21,8 +21,16 @@ Power BI. Sales, orders and customers with slicers, so non-technical people can 
 
 ## Toolbox
 
-Power BI · Excel · Data modeling · LabVIEW · IoT & embedded systems
+## Toolbox
 
+<p>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="Excel" />&nbsp;&nbsp;&nbsp;
+  <img src="labview.svg" height="40" alt="LabVIEW" />&nbsp;&nbsp;&nbsp;
+  <img src="chip.svg" height="40" alt="IoT and embedded systems" />
+</p>
+
+<sub>Power BI · Excel · LabVIEW · IoT & embedded systems</sub>
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/amr-hatem-3b55082a2/)
